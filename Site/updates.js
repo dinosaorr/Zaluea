@@ -1,5 +1,5 @@
 var updates = [
-    {message: "Welcome to the first official release of Zaluea!"}
+    {message: "Made by Dino"}
 ];
 var updatespage = document.getElementById("updatespage");
 for(let item of updates) {
